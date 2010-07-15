@@ -4,7 +4,7 @@ module SeleniumRemoteControl
     Major = 1
     Minor = 0
     Tiny = 4
-    Build = 'pre1'
+    Build = 'pre2'
 
     def self.to_s
       to_a.join('.')
