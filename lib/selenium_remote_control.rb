@@ -3,14 +3,15 @@ module SeleniumRemoteControl
   module Version
     Major = 1
     Minor = 0
-    Tiny = 3
+    Tiny = 4
+    Build = 'pre1'
 
     def self.to_s
       to_a.join('.')
     end
 
     def self.to_a
-      [Major, Minor, Tiny]
+      [Major, Minor, Tiny, Build]
     end
   end
 
