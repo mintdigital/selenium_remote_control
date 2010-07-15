@@ -1,7 +1,7 @@
 # -*- encoding: utf-8 -*-
 
 Gem::Specification.new do |s|
-  s.version = "1.0.4.pre3"
+  s.version = "1.0.4.pre4"
 
   s.name = 'selenium_remote_control'
   s.summary = 'Selenium RC jar file in a gem'
